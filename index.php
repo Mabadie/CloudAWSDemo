@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<h1>Welcome to group 01 Jenkins-AWS DEMO WebSite</h1>
+<h1>La Maravilla Academica</h1>
 </head>
 <body>
 
