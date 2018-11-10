@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<h1>La Maravilla Academica</h1>
+<h1>La Maravilla Academica, Funciona</h1>
 </head>
 <body>
 
