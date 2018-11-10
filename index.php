@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<h1>Welcome to Group 01, Jenkins-Cloud Demo</h1>
+<h1>Welcome to Group 01, Jenkins-Cloud Demo!</h1>
 <h2><?php echo date("D M j G:i:s T Y");?></h2>
 </head>
 <body>
@@ -17,6 +17,6 @@
 	</p>
 </div>
 
-
+	
 </body>
 </html>
