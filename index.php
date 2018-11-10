@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<h1>La Maravilla Academica, Funciona</h1>
+<h1>Welcome to Group 01, Jenkins-Cloud Demo</h1>
 </head>
 <body>
 
